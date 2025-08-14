@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node main.mjs"
+  },
   "devDependencies": {
     "testcontainers": "^11.5.1"
   }
